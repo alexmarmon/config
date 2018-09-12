@@ -1,0 +1,254 @@
+{
+  "sizes" : {
+    "centered": {
+      "insetTop": 110,
+      "widthProp": 1,
+      "offsetY": 0,
+      "heightProp": 1,
+      "insetBottom": 110,
+      "offsetX": 0,
+      "insetRight": 200,
+      "insetLeft": 200,
+      "xProp": 0.5,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 0.5
+    }, 
+    "smallScreenCentered": {
+      "insetTop": 30,
+      "widthProp": 1,
+      "offsetY": 0,
+      "heightProp": 1,
+      "insetBottom": 30,
+      "offsetX": 0,
+      "insetRight": 50,
+      "insetLeft": 50,
+      "xProp": 0.5,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 0.5
+    },
+    "leftExtraLarge": {
+      "insetTop": 200,
+      "widthProp": 0.65,
+      "offsetY": 0,
+      "heightProp": 1,
+      "insetBottom": 200,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 100,
+      "xProp": 0,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 0
+    },
+    "rightTall": {
+      "insetTop": 50,
+      "widthProp": 0.31,
+      "offsetY": 0,
+      "heightProp": 1,
+      "insetBottom": 50,
+      "offsetX": 0,
+      "insetRight": 100,
+      "insetLeft": 0,
+      "xProp": 1,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 1
+    },
+    "leftLarge": {
+      "insetTop": 0,
+      "widthProp": 0.515,
+      "offsetY": 0,
+      "heightProp": 0.75,
+      "insetBottom": 0,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 0,
+      "xProp": 0.035,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 0
+    },
+    "rightSmall": {
+      "insetTop": 0,
+      "widthProp": 0.38,
+      "offsetY": 0,
+      "heightProp": 0.5,
+      "insetBottom": 0,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 0,
+      "xProp": 0.965,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 1
+    },
+    "rightLarge": {
+      "insetTop": 0,
+      "widthProp": 0.515,
+      "offsetY": 0,
+      "heightProp": 0.75,
+      "insetBottom": 0,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 0,
+      "xProp": 0.965,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 1
+    },
+    "leftSmall": {
+      "insetTop": 0,
+      "widthProp": 0.38,
+      "offsetY": 0,
+      "heightProp": 0.5,
+      "insetBottom": 0,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 0,
+      "xProp": 0.035,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 0
+    },
+    "leftHalf": {
+      "insetTop": 0,
+      "widthProp": 0.4475,
+      "offsetY": 0,
+      "heightProp": 0.84,
+      "insetBottom": 0,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 0,
+      "xProp": 0.035,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 0
+    },
+    "rightHalf": {
+      "insetTop": 0,
+      "widthProp": 0.4475,
+      "offsetY": 0,
+      "heightProp": 0.84,
+      "insetBottom": 0,
+      "offsetX": 0,
+      "insetRight": 0,
+      "insetLeft": 0,
+      "xProp": 0.965,
+      "yProp": 0.5,
+      "originY": 0.5,
+      "originX": 1
+    }
+  },
+  "shortcuts" : [
+    {
+      "characters": [
+        "enter"
+      ],
+      "actionIdentifier": "smallScreenCentered",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        "up"
+      ],
+      "actionIdentifier": "centered",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        ";"
+      ],
+      "actionIdentifier": "leftExtraLarge",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        "'"
+      ],
+      "actionIdentifier": "rightTall",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        "["
+      ],
+      "actionIdentifier": "leftSmall",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        "]"
+      ],
+      "actionIdentifier": "rightLarge",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        "left"
+      ],
+      "actionIdentifier": "leftLarge",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    },
+    {
+      "characters": [
+        "right"
+      ],
+      "actionIdentifier": "rightSmall",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    }, {
+      "characters": [
+        ","
+      ],
+      "actionIdentifier": "leftHalf",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    }, {
+      "characters": [
+        "."
+      ],
+      "actionIdentifier": "rightHalf",
+      "modifiers": [
+        "command",
+        "shift",
+        "option"
+      ]
+    }
+  ]
+}
